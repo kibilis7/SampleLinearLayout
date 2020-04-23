@@ -8,6 +8,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class LayoutCodeActivity extends AppCompatActivity {
 
+    //test
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
